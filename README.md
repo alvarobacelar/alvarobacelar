@@ -3,11 +3,9 @@
 
 ## Hi 👋, 
 
-I'm Álvaro Bacelar, I'm a I.T. engineer 👨‍💻 who is passionate about Linux :penguin:, cloud :cloud:, Automation, Web Development and open source. I'm also teacher at Udemy and I like to writte about technologies.
+I'm Álvaro Bacelar, I'm a I.T. engineer 👨‍💻 who is passionate about Linux :penguin:, cloud :cloud:, Automation, Web Development and open source.
 
-- :house: I live in São Paulo, but I'm from Teresina
-- :bank: I’m currently working at Itau Unibanco
-- :speech_balloon: I like to talk about tech, book
+- :house: I live in São Paulo, but I'm from Teresina-PI
 - :computer: Languages: Java, Python3, Ruby, PHP
 
 > Continuous learning
